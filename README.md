@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RevHeadGuy
 - 👀 I’m interested in Open Source and Web Development.
-- 🌱 I’m currently learning Java, JS, Node.js, MongoDB.
+- 🌱 I’m currently learning Java and it's framework, JS, Node.js, MongoDB.
 - 💞️ I’m looking to collaborate on projects based on Web Development and Java .
 - 📫 How to reach me - vedantatri123@gmail.com
 
