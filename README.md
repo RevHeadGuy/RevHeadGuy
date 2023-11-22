@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RevHeadGuy
-- 👀 I’m interested in Open Source and Web Development.
-- 🌱 I’m currently learning Java and it's framework, JS, Node and React.
-- 💞️ I’m looking to collaborate on projects based on Web Development and Java .
+- 👀 I’m interested in Open Source and Java Development.
+- 🌱 I’m currently learning Java and it's framework, JavaScript.
+- 💞️ I’m looking to collaborate on projects based on Java Development .
 - 📫 How to reach me - vedantatri123@gmail.com
 
 <!---
