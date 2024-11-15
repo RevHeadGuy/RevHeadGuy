@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RevHeadGuy
-- 👀 I’m interested in Data/Business Analysis.
-- 🌱 I’m currently learning Machine Learning and Data/Business Analytics.
-- 💞️ I’m looking to collaborate on projects based on Machine Learning as well as Analytics.
+- 👀 I’m interested in Gen AI and Machine Learning.
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on projects based on Machine Learning.
 - 📫 How to reach me - vedantatri123@gmail.com
 
 <!---
