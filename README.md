@@ -28,4 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revheadguy&" alt="revheadguy" /></p>
 
-https://camo.githubusercontent.com/471c50acd4040f70a5b3ed5868ee845c16ceb13fcc44987826f82453d052ae15/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7265766865616467757926
