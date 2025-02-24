@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **vedantatri123@gmail.com**
 
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vedant0223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedant0223" height="30" width="40" /></a>
@@ -27,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revheadguy&show_icons=true&locale=en" alt="revheadguy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revheadguy&" alt="revheadguy" /></p>
-
