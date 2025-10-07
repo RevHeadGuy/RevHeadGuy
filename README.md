@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vedant Atri</h1>
 <h3 align="center">A Passionate Developer</h3>
 
-•⁠  ⁠🔭 I’m interested in *Machine Learning and Generative AI*
+•⁠  ⁠🔭 I’m interested in *Data Science and Software Development*
 
-•⁠  ⁠🌱 I’m currently learning *Artificial Intelligence and Machine Learning*
+•⁠  ⁠🌱 I’m currently learning *Data Science*
 
-•⁠  ⁠👯 I’m looking to collaborate on *Machine Learning*
+•⁠  ⁠👯 I’m looking to collaborate on *Machine Learning and Dev Projects*
 
 •⁠  ⁠👨‍💻 All of my projects are available at [https://github.com/RevHeadGuy](https://github.com/RevHeadGuy)
 
