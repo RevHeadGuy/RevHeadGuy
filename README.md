@@ -5,7 +5,7 @@
 
 •⁠  ⁠🌱 I’m currently learning *Data Science*
 
-•⁠  ⁠👯 I’m looking to collaborate on *Machine Learning Projects*
+•⁠  ⁠👯 I’m looking to collaborate on *Artificial Intelligence and Machine Learning Projects*
 
 •⁠  ⁠👨‍💻 All of my projects are available at [https://github.com/RevHeadGuy](https://github.com/RevHeadGuy)
 
