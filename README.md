@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Atri</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">AI Engineer</h3>
 
-•⁠  ⁠🔭 I’m interested in *Data Science*
+•⁠  ⁠🔭 I’m interested in *Artificial Intelligence*
 
-•⁠  ⁠🌱 I’m currently learning *Data Science*
+•⁠  ⁠🌱 I’m currently learning *Agentic AI*
 
 •⁠  ⁠👯 I’m looking to collaborate on *Artificial Intelligence and Machine Learning Projects*
 
