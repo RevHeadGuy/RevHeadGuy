@@ -1,110 +1,154 @@
-<!-- ==================== HEADER ==================== -->
+<!--
+  VEDANT ATRI | PREMIUM AI ENGINEERING PROFILE
+  Replace placeholder repository URLs before publishing.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:164e63,100:2563eb&text=VEDANT%20ATRI&fontColor=ffffff&fontSize=55&fontAlignY=45&desc=AI%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20MACHINE%20LEARNING&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Vedant Atri - AI Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:050816,45:0B2447,100:123E70&text=VEDANT%20ATRI&fontColor=EAF6FF&fontSize=58&fontAlignY=42&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20WITH%20AI.&descSize=14&descColor=6EE7F9&descAlignY=62" alt="Vedant Atri | AI Engineering"/>
 
 <br/>
 
-
-<a href="https://github.com/RevHeadGuy?tab=followers">
-  <img src="https://img.shields.io/github/followers/RevHeadGuy?style=for-the-badge&color=2563eb&label=FOLLOWERS" alt="GitHub followers"/>
+<a href="https://github.com/RevHeadGuy">
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-0B1220?style=flat-square&logo=probot&logoColor=67E8F9" alt="AI Engineering"/>
 </a>
 <a href="https://github.com/RevHeadGuy?tab=repositories">
-  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-0891b2?style=for-the-badge" alt="AI Engineering"/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-0B1220?style=flat-square&logo=openai&logoColor=67E8F9" alt="Agentic AI"/>
+</a>
+<a href="https://github.com/RevHeadGuy?tab=repositories">
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0B1220?style=flat-square&logo=scikitlearn&logoColor=67E8F9" alt="Machine Learning"/>
 </a>
 
-### Building intelligent systems. Engineering useful AI. Turning ideas into products.
+<br/><br/>
 
-I am an AI enthusiast and engineer exploring **Agentic AI, Generative AI, Machine Learning, and intelligent software systems**. I enjoy building practical applications, experimenting with emerging technologies, and understanding how to make AI systems more useful, reliable, and secure.
+<a href="https://www.linkedin.com/in/vedant-atri-398a13257/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/RevHeadGuy?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+<a href="mailto:vedantatri123@gmail.com">
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-[Explore My Projects](https://github.com/RevHeadGuy?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/vedant-atri-398a13257/) · [Email Me](mailto:vedantatri123@gmail.com)
+<br/><br/>
+
+**I explore the intersection of intelligent systems, software engineering, and product innovation.**
+
+*From LLM-powered applications to machine learning systems, I enjoy turning technical ideas into practical solutions.*
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `01` / THE ENGINEER
 
-- 🔭 **Exploring:** Agentic AI, multi-agent systems, and LLM-powered applications
-- 🌱 **Learning:** AI orchestration, RAG, evaluation, and reliable AI system design
-- 🛠️ **Building:** AI applications, ML solutions, and developer-focused tools
-- 🔐 **Interested in:** AI security, privacy, model monitoring, and responsible AI
-- 🤝 **Open to:** Collaborations on Artificial Intelligence and Machine Learning projects
-- 🎯 **Long-term vision:** Bridge AI engineering and product thinking to build impactful technology
+<img align="right" width="155" src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,git,docker&perline=2&theme=dark" alt="Core technology icons"/>
+
+I'm Vedant — an AI enthusiast focused on building useful, reliable, and thoughtfully engineered AI applications.
+
+- **Current focus** — Agentic AI, LLM applications, and multi-agent workflows
+- **Building** — AI-powered tools and machine learning projects
+- **Exploring** — RAG, evaluation, AI security, and model monitoring
+- **Interested in** — AI engineering, product thinking, and emerging technologies
+- **Collaboration** — Open to interesting AI and ML projects
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## `02` / SELECTED WORK
+
+<div align="center">
+
+### Projects built around real engineering problems
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/RevHeadGuy/LLM_DATA_LEAKAGE_MONITOR">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:0B1F36,100:164E63&text=AEGIS%20%2F%20PRIVACY&fontColor=67E8F9&fontSize=19" width="100%" alt="Privacy engineering project"/>
+</a>
+
 ### 🔐 LLM Data Leakage Monitor
 
-A privacy-focused browser extension concept for detecting sensitive information before it is submitted to AI assistants.
+**AI security · Privacy engineering**
 
-**Highlights**
-- Regex-based sensitive data detection
-- TinyBERT-based entity recognition exploration
+A browser extension designed to identify sensitive information before it reaches an AI assistant.
+
+- Regex-based sensitive-data detection
+- TinyBERT NER model exploration
 - ONNX Runtime integration
-- Privacy-first, local processing approach
+- Local-first privacy approach
 
-**Stack:** JavaScript · ONNX Runtime · TinyBERT · Browser APIs
+`JavaScript` `ONNX` `TinyBERT`
 
-<a href="https://github.com/RevHeadGuy/LLM_DATA_LEAKAGE_MONITOR"><b>View Repository →</b></a>
+<a href="https://github.com/RevHeadGuy/LLM_DATA_LEAKAGE_MONITOR">↗ Explore source code</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Travel Maestro
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101B3C,100:312E81&text=AI%20TRAVEL%20MAESTRO&fontColor=C4B5FD&fontSize=19" width="100%" alt="AI Travel Maestro project"/>
 
-An AI-powered travel planning application that generates personalized itineraries based on travel preferences.
+### ✈️ AI Travel Maestro
 
-**Highlights**
-- LLM-powered itinerary generation
-- LangChain-based application workflow
+**Generative AI · Application engineering**
+
+A personalized travel-planning application that uses an LLM to generate itineraries around user preferences.
+
+- Natural-language itinerary generation
+- LangChain-based orchestration
 - Interactive Gradio interface
-- Travel discovery with image integration
+- Travel imagery integration
 
-**Stack:** Python · LangChain · Groq · Gradio
+`Python` `LangChain` `Groq` `Gradio`
 
-<a href="https://github.com/RevHeadGuy?tab=repositories"><b>Explore Repositories →</b></a>
+<a href="https://github.com/RevHeadGuy?tab=repositories">↗ Explore repositories</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 ML Monitoring & Drift Detection
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:102A22,100:166534&text=MODEL%20RELIABILITY&fontColor=86EFAC&fontSize=19" width="100%" alt="ML monitoring project"/>
 
-An ML engineering project exploring ways to identify changes in input data that can affect model reliability.
+### 📊 ML Drift Detection
 
-**Highlights**
-- Feature drift analysis
+**Machine learning · Monitoring**
+
+An ML engineering project exploring how changes in incoming data can affect model behavior.
+
+- Baseline versus current data analysis
 - Population Stability Index (PSI)
 - KL divergence and Wasserstein distance
-- Baseline-versus-current data comparison
+- Drift severity analysis
 
-**Stack:** Python · Pandas · NumPy · scikit-learn
+`Python` `Pandas` `scikit-learn`
 
-<a href="https://github.com/RevHeadGuy?tab=repositories"><b>Explore Repositories →</b></a>
+<a href="https://github.com/RevHeadGuy?tab=repositories">↗ Explore repositories</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Exploring What's Next
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:2B183D,100:701A75&text=NEXT%20FRONTIER&fontColor=F5D0FE&fontSize=19" width="100%" alt="Future engineering focus"/>
 
-I am interested in building AI systems that go beyond simple prompts through structured workflows, tool use, evaluation, and meaningful human oversight.
+### 🧠 Next: Agentic AI Systems
 
-**Areas of exploration**
-- Multi-agent orchestration
-- Retrieval-Augmented Generation (RAG)
-- AI evaluation and observability
-- Model deployment and MLOps
+**AI agents · System design**
 
-<a href="https://github.com/RevHeadGuy?tab=repositories"><b>Explore All Projects →</b></a>
+Exploring how to design AI systems that use tools, follow structured workflows, and can be evaluated beyond a single successful response.
+
+- Tool use and orchestration
+- Human-in-the-loop workflows
+- Evaluation and observability
+- Reliable execution patterns
+
+`LLMs` `Python` `APIs` `AI Workflows`
+
+<a href="https://github.com/RevHeadGuy?tab=repositories">↗ Follow my work</a>
 
 </td>
 </tr>
@@ -112,83 +156,87 @@ I am interested in building AI systems that go beyond simple prompts through str
 
 ---
 
-## ⚙️ Technology Stack
+## `03` / TECHNOLOGY MATRIX
 
 <div align="center">
 
-### Languages
+| DOMAIN | TECHNOLOGIES |
+|:---|:---|
+| **Languages** | Python · Java · C++ · JavaScript · SQL |
+| **AI / ML** | PyTorch · TensorFlow · scikit-learn · Transformers |
+| **LLM Engineering** | LangChain · Groq · ONNX Runtime · Gradio |
+| **Data Science** | Pandas · NumPy · OpenCV · Model evaluation |
+| **Development** | Git · GitHub · FastAPI · Streamlit · Docker |
+| **Engineering interests** | RAG · Agent orchestration · MLOps · AI security |
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql&theme=dark" alt="Programming languages"/>
+</div>
 
-### AI / ML / Data Science
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning tools"/>
-
-`Pandas` · `NumPy` · `Transformers` · `ONNX Runtime` · `LangChain` · `Gradio`
-
-### Backend & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,vscode,linux&theme=dark" alt="Backend and developer tools"/>
-
-`REST APIs` · `Streamlit` · `SQL` · `CI/CD fundamentals`
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,pytorch,tensorflow,git,github,docker,fastapi,vscode&theme=dark" alt="Technology stack" />
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## `04` / GITHUB ACTIVITY
 
 <div align="center">
 
 <a href="https://github.com/RevHeadGuy">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RevHeadGuy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=RevHeadGuy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics"/>
 </a>
+
 <a href="https://github.com/RevHeadGuy">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevHeadGuy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=RevHeadGuy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation" width="100%"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vedant-atri-398a13257/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/vedant0223">
-  <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://kaggle.com/vedantatr">
-  <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-<a href="https://instagram.com/vedantatri99">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:vedantatri123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevHeadGuy&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&langs_count=6" alt="Most-used languages"/>
 </a>
 
 <br/><br/>
 
-**Always learning. Always building. Always exploring what's possible with AI.**
+<img src="https://streak-stats.demolab.com/?user=RevHeadGuy&hide_border=true&background=0D1117&ring=38BDF8&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak" width="90%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner"/>
+</div>
+
+---
+
+## `05` / BEYOND THE CODE
+
+<div align="center">
+
+| ⚡ BUILD | 🔍 EXPLORE | 🎯 IMPROVE |
+|:---:|:---:|:---:|
+| Turn ideas into working applications | Understand how intelligent systems work | Make solutions more reliable and useful |
+
+</div>
+
+I believe good engineering is more than getting a model to produce an answer. It is about understanding the problem, designing the system, evaluating the outcome, and improving it through iteration.
+
+---
+
+## `06` / LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vedant-atri-398a13257/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/vedant0223">
+<img src="https://img.shields.io/badge/X-Follow%20Along-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://kaggle.com/vedantatr">
+<img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://instagram.com/vedantatri99">
+<img src="https://img.shields.io/badge/Instagram-Lifestyle-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:vedantatri123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+*Open to learning, building, and collaborating on meaningful technology.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:123E70,100:050816&section=footer" width="100%" alt="Footer"/>
 
 </div>
