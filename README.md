@@ -106,7 +106,7 @@ A personalized travel-planning application that uses an LLM to generate itinerar
 
 `Python` `LangChain` `Groq` `Gradio`
 
-<a href="[https://github.com/RevHeadGuy?tab=repositories](https://github.com/RevHeadGuy/AI_Travel_Maestro)">↗ Explore source code</a>
+<a href="https://github.com/RevHeadGuy?tab=repositories](https://github.com/RevHeadGuy/AI_Travel_Maestro">↗ Explore source code</a>
 
 </td>
 </tr>
