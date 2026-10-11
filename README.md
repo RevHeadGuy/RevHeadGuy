@@ -130,7 +130,7 @@ A productivity-focused project built around creating a dedicated digital environ
 
 **Tech stack**
 
-See the repository for the exact implementation and technologies.
+`Python` `MCP` `Groq` `SQLite`
 
 <a href="https://github.com/RevHeadGuy/FocusRoom">↗ View Repository</a>
 
