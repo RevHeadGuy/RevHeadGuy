@@ -71,7 +71,7 @@ A privacy-focused browser extension designed to identify sensitive information b
 
 **Tech stack**
 
-JavaScript TinyBERT ONNX Runtime Browser APIs
+'JavaScript' 'TinyBERT' ONNX Runtime Browser APIs
 
 <a href="https://github.com/RevHeadGuy/LLM_DATA_LEAKAGE_MONITOR">↗ View Repository</a>
 
