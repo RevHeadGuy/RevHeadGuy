@@ -7,11 +7,6 @@
 <br/>
 
 <a href="https://github.com/RevHeadGuy">
-<img src="https://komarev.com/ghpvc/?username=RevHeadGuy&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/RevHeadGuy?tab=followers">
-<img src="https://img.shields.io/github/followers/RevHeadGuy?style=for-the-badge&color=2563eb&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
 
 <br/><br/>
 
