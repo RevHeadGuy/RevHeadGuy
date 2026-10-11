@@ -102,10 +102,24 @@ An AI-powered presentation generator that transforms a topic, PDF, or existing P
 - Sally AI presenter for slide explanations, speaker notes, and audience Q&A
 - Local LLM inference using Ollama
 - Presentation downloads, history, and email sharing
+  
+**⚙️ Tech Stack**
 
-**Tech stack**
-
-React FastAPI LangGraph Llama 3 Ollama PostgreSQL python-pptx
+<table>
+<tr>
+<td align="center"><b>React</b></td>
+<td align="center"><b>FastAPI</b></td>
+<td align="center"><b>LangGraph</b></td>
+</tr>
+<tr>
+<td align="center"><b>Llama 3</b></td>
+<td align="center"><b>Ollama</b></td>
+<td align="center"><b>PostgreSQL</b></td>
+</tr>
+<tr>
+<td align="center" colspan="3"><b>python-pptx</b></td>
+</tr>
+</table>
 
 <a href="https://github.com/RevHeadGuy/SlideSmith">↗ View Repository</a>
 
