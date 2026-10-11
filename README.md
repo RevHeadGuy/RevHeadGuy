@@ -69,12 +69,16 @@ A privacy-focused browser extension designed to identify sensitive information b
 - ONNX Runtime integration
 - Privacy-first, local-processing approach
 
-**⚙️ TECH STACK**
+**⚙️ Tech Stack**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![TinyBERT](https://img.shields.io/badge/TinyBERT-7C3AED?style=flat-square&logo=huggingface&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-0891B2?style=flat-square&logo=onnx&logoColor=white)
-![Browser APIs](https://img.shields.io/badge/Browser_APIs-334155?style=flat-square&logo=googlechrome&logoColor=white)
+<table>
+<tr>
+<td align="center"><b>JavaScript</b></td>
+<td align="center"><b>TinyBERT</b></td>
+<td align="center"><b>ONNX Runtime</b></td>
+<td align="center"><b>Browser APIs</b></td>
+</tr>
+</table>
 
 <a href="https://github.com/RevHeadGuy/LLM_DATA_LEAKAGE_MONITOR">↗ View Repository</a>
 
