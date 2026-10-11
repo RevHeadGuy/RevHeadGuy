@@ -1,16 +1,9 @@
-<!-- ================= VEDANT ATRI | PREMIUM GITHUB PROFILE ================= -->
+ <!-- ================= VEDANT ATRI | PREMIUM GITHUB PROFILE ================= -->
 
 <div align="center">
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:050816,45:0B2447,100:123E70&text=VEDANT%20ATRI&fontColor=EAF6FF&fontSize=58&fontAlignY=42&desc=Agentic%20AI%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descSize=14&descColor=67E8F9&descAlignY=62&animation=fadeIn" alt="Vedant Atri | AI Engineering"/>
 
-
-<br/>
-
-<a href="https://github.com/RevHeadGuy">
-
-  
 <br/><br/>
 
 ### Building intelligent systems. Engineering useful AI. Turning ideas into products.
@@ -41,7 +34,7 @@ I enjoy experimenting with emerging tools, understanding how intelligent systems
 
 - 🔭 **Current focus:** Agentic AI, LLM applications, and AI engineering
 - 🌱 **Learning:** Multi-agent systems, RAG, orchestration, and AI evaluation
-- 🛠️ **Building:** AI-powered applications, browser tools, and interactive web experiences
+- 🛠️ **Building:** AI-powered applications, browser tools, and intelligent productivity tools
 - 🔐 **Interested in:** AI security, privacy, reliability, and responsible AI
 - 🤝 **Open to:** Collaborating on interesting AI, ML, and software engineering projects
 - 🎯 **Long-term vision:** Combine engineering expertise with product thinking to build impactful technology
@@ -72,7 +65,7 @@ A privacy-focused browser extension designed to identify sensitive information b
 
 **Key areas**
 - Regex-based sensitive-data detection
-- TinyBERT-based entity recognition exploration
+- TinyBERT-based entity recognition
 - ONNX Runtime integration
 - Privacy-first, local-processing approach
 
@@ -87,25 +80,27 @@ A privacy-focused browser extension designed to identify sensitive information b
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101B3C,100:312E81&text=GENERATIVE%20AI&fontColor=C4B5FD&fontSize=23" alt="Generative AI project"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101B3C,100:312E81&text=GENERATIVE%20AI&fontColor=C4B5FD&fontSize=23" alt="SlideSmith AI presentation project"/>
 
 </div>
 
-### ✈️ AI Travel Maestro
+### 📊 SlideSmith — AI Presentation Generator
 
-An AI-powered travel planning application that generates personalized itineraries based on user preferences.
+An AI-powered presentation generator that transforms a topic, PDF, or existing PowerPoint file into professional presentations with smart slide layouts, relevant imagery, and an interactive AI presenter.
 
-**Key areas**
-- LLM-powered itinerary generation
-- LangChain-based application workflow
-- Interactive Gradio interface
-- Travel imagery integration
+**Key features**
+- AI-generated presentations from topics and documents
+- LangGraph-powered generation workflow
+- Smart slide layouts and automated image retrieval
+- Sally AI presenter for slide explanations, speaker notes, and audience Q&A
+- Local LLM inference using Ollama
+- Presentation downloads, history, and email sharing
 
 **Tech stack**
 
-`Python` `LangChain` `Groq` `Gradio`
+`React` `FastAPI` `LangGraph` `Llama 3` `Ollama` `PostgreSQL` `python-pptx`
 
-<a href="https://github.com/RevHeadGuy/AI_Travel_Maestro">↗ View Repository</a>
+<a href="https://github.com/RevHeadGuy/SlideSmith">↗ View Repository</a>
 
 </td>
 </tr>
@@ -120,17 +115,17 @@ An AI-powered travel planning application that generates personalized itinerarie
 
 ### 🎯 FocusRoom
 
-A productivity-focused project built around creating a dedicated digital environment for focused work.
+A productivity-focused AI application designed to support focused work through task management, planning, persistent memory, and AI-powered assistance.
 
 **Project focus**
-- Focus-oriented user experience
-- Interactive web application design
-- Productivity and usability
-- A dedicated space for focused work
+- AI-powered productivity workflows
+- Task management and planning
+- Persistent memory using SQLite
+- MCP server for exposing tools to compatible AI clients
 
 **Tech stack**
 
-`Python` `MCP` `Groq` `SQLite`
+`Python` `Groq` `MCP` `SQLite` `Streamlit`
 
 <a href="https://github.com/RevHeadGuy/FocusRoom">↗ View Repository</a>
 
@@ -181,13 +176,13 @@ Exploring the engineering principles behind AI systems that use tools, execute w
 
 ### LLM & AI Application Engineering
 
-`LangChain` · `Groq` · `Gradio` · `Streamlit` · `RAG concepts` · `Agent workflows`
+`LangChain` · `LangGraph` · `Groq` · `Ollama` · `Llama 3` · `Gradio` · `Streamlit` · `RAG concepts` · `Agent workflows`
 
 ### Backend & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,vscode,linux&theme=dark" alt="Backend and developer tools"/>
 
-`REST APIs` · `SQL` · `CI/CD fundamentals` · `MLOps concepts`
+`React` · `FastAPI` · `PostgreSQL` · `SQLite` · `REST APIs` · `MCP` · `SQLAlchemy` · `CI/CD fundamentals` · `MLOps concepts`
 
 </div>
 
