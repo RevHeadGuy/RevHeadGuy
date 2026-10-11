@@ -144,9 +144,19 @@ A productivity-focused AI application designed to support focused work through t
 - Persistent memory using SQLite
 - MCP server for exposing tools to compatible AI clients
 
-**Tech stack**
+**⚙️ Tech Stack**
 
-Python Groq MCP SQLite Streamlit
+<table>
+<tr>
+<td align="center"><b>Python</b></td>
+<td align="center"><b>Groq</b></td>
+<td align="center"><b>MCP</b></td>
+</tr>
+<tr>
+<td align="center"><b>SQLite</b></td>
+<td align="center" colspan="2"><b>Streamlit</b></td>
+</tr>
+</table>
 
 <a href="https://github.com/RevHeadGuy/FocusRoom">↗ View Repository</a>
 
@@ -169,9 +179,18 @@ Exploring the engineering principles behind AI systems that use tools, execute w
 - Evaluation and observability
 - Reliable execution patterns
 
-**Focus**
+**🧠 Focus**
 
-LLMs Python APIs AI Workflows
+<table>
+<tr>
+<td align="center"><b>LLMs</b></td>
+<td align="center"><b>Python</b></td>
+</tr>
+<tr>
+<td align="center"><b>APIs</b></td>
+<td align="center"><b>AI Workflows</b></td>
+</tr>
+</table>
 
 <a href="https://github.com/RevHeadGuy?tab=repositories">↗ Explore My Repositories</a>
 
