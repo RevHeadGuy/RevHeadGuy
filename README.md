@@ -1,4 +1,4 @@
- <!-- ================= VEDANT ATRI | GITHUB PROFILE ================= -->
+<!-- ================= VEDANT ATRI | PREMIUM GITHUB PROFILE ================= -->
 
 <div align="center">
 
@@ -7,6 +7,11 @@
 <br/>
 
 <a href="https://github.com/RevHeadGuy">
+<img src="https://komarev.com/ghpvc/?username=RevHeadGuy&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+<a href="https://github.com/RevHeadGuy?tab=followers">
+<img src="https://img.shields.io/github/followers/RevHeadGuy?style=for-the-badge&color=2563eb&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
 
 <br/><br/>
 
@@ -123,7 +128,7 @@ A productivity-focused project built around creating a dedicated digital environ
 - Focus-oriented user experience
 - Interactive web application design
 - Productivity and usability
-- Building a dedicated space for focused work
+- A dedicated space for focused work
 
 **Tech stack**
 
@@ -204,7 +209,7 @@ Exploring the engineering principles behind AI systems that use tools, execute w
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=RevHeadGuy&hide_border=true&background=0D1117&ring=38BDF8&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com/?user=RevHeadGuy&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=67E8F9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=94A3B8" alt="Vedant's GitHub Contribution Streak"/>
 
 </div>
 
