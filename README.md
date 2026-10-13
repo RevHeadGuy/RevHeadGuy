@@ -1,35 +1,26 @@
-
-<!-- ================= VEDANT ATRI | PREMIUM AI ENGINEERING PROFILE ================= -->
+<!-- ================= VEDANT ATRI | PREMIUM GITHUB PROFILE ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:050816,40:0B1F36,75:123E70,100:164E63&text=VEDANT%20ATRI&fontColor=F0F9FF&fontSize=64&fontAlignY=40&desc=AI%20ENGINEERING%20%20%E2%80%A2%20%20AGENTIC%20SYSTEMS%20%20%E2%80%A2%20%20MACHINE%20LEARNING&descSize=15&descColor=67E8F9&descAlignY=62&animation=fadeIn" alt="Vedant Atri — AI Engineering"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:050816,45:0B2447,100:123E70&text=VEDANT%20ATRI&fontColor=EAF6FF&fontSize=58&fontAlignY=42&desc=Agentic%20AI%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descSize=14&descColor=67E8F9&descAlignY=62&animation=fadeIn" alt="Vedant Atri | AI Engineering"/>
 
-<br/>
+<br/><br/>
 
 ### Building intelligent systems. Engineering useful AI. Turning ideas into products.
 
-*Exploring agentic systems, generative AI, machine learning, and the engineering behind reliable applications.*
+*Exploring the intersection of Artificial Intelligence, software engineering, and product innovation.*
 
 <br/>
 
 <a href="https://github.com/RevHeadGuy?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/vedant-atri-398a13257/">
-<img src="https://img.shields.io/badge/CONNECT%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="mailto:vedantatri123@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/CONTACT-ME-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Agentic%20AI-0E7490?style=flat-square" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/BUILD-Generative%20AI-4338CA?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/EXPLORE-Machine%20Learning-166534?style=flat-square" alt="Machine Learning"/>
 
 </div>
 
@@ -37,42 +28,16 @@
 
 ## 01 / ABOUT ME
 
-<div align="center">
+I'm Vedant Atri, an AI enthusiast and engineer interested in building practical applications with Artificial Intelligence, Machine Learning, and modern software technologies.
 
-*Engineering at the intersection of intelligent systems, software, and product thinking.*
+I enjoy experimenting with emerging tools, understanding how intelligent systems work, and turning technical ideas into useful products.
 
-</div>
-
-I'm Vedant Atri, an AI enthusiast and engineer interested in turning emerging AI capabilities into practical, useful applications.
-
-I enjoy exploring how intelligent systems work, designing application architectures, and building projects that combine models, APIs, data, and software engineering.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Current Focus
-
-- Agentic AI and LLM applications
-- Multi-agent systems and orchestration
-- Retrieval-augmented generation concepts
-- AI evaluation and observability
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Engineering Interests
-
-- Backend architecture and APIs
-- Human-in-the-loop systems
-- AI security, privacy, and reliability
-- Machine learning and MLOps concepts
-
-</td>
-</tr>
-</table>
-
-> **My approach:** Understand the problem. Design the system. Validate the outcome. Improve through iteration.
+- 🔭 **Current focus:** Agentic AI, LLM applications, and AI engineering
+- 🌱 **Learning:** Multi-agent systems, RAG, orchestration, and AI evaluation
+- 🛠️ **Building:** AI-powered applications, browser tools, and intelligent productivity tools
+- 🔐 **Interested in:** AI security, privacy, reliability, and responsible AI
+- 🤝 **Open to:** Collaborating on interesting AI, ML, and software engineering projects
+- 🎯 **Long-term vision:** Combine engineering expertise with product thinking to build impactful technology
 
 ---
 
@@ -80,7 +45,7 @@ I enjoy exploring how intelligent systems work, designing application architectu
 
 <div align="center">
 
-*Selected builds across AI engineering, generative AI, privacy, and intelligent productivity.*
+*Selected projects exploring AI, productivity, and software engineering.*
 
 </div>
 
@@ -90,65 +55,73 @@ I enjoy exploring how intelligent systems work, designing application architectu
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:071B2F,100:155E75&text=01%20%2F%20AI%20ENGINEERING&fontColor=67E8F9&fontSize=19" alt="NexusFlow — AI engineering"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:0B1F36,100:164E63&text=AI%20SECURITY&fontColor=67E8F9&fontSize=23" alt="AI security project"/>
 
 </div>
 
-### 🔷 NexusFlow
+### 🔐 LLM Data Leakage Monitor
 
-**AI Project Engineering Workspace**
+A privacy-focused browser extension designed to identify sensitive information before it is submitted to AI assistants.
 
-A local-first project planning application that transforms software ideas into structured briefs and reviewable project deliverables.
+**Key areas**
+- Regex-based sensitive-data detection
+- TinyBERT-based entity recognition
+- ONNX Runtime integration
+- Privacy-first, local-processing approach
 
-- Persisted workflows and explicit human approvals
-- Versioned artifacts, review comments, and decision history
-- Deterministic evaluations and guardrail findings
-- Local, read-only MCP integration
+**⚙️ Tech Stack**
 
-**Tech Stack**
+<table>
+<tr>
+<td align="center"><b>JavaScript</b></td>
+<td align="center"><b>TinyBERT</b></td>
+<td align="center"><b>ONNX Runtime</b></td>
+<td align="center"><b>Browser APIs</b></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,python,fastapi,sqlite&theme=dark" alt="NexusFlow technology stack"/>
-
-`MCP` · `SQLAlchemy` · `Human-in-the-loop`
-
-<br/>
-
-<a href="https://github.com/RevHeadGuy/NexusFlow">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View NexusFlow"/>
-</a>
+<a href="https://github.com/RevHeadGuy/LLM_DATA_LEAKAGE_MONITOR">↗ View Repository</a>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:171338,100:4338CA&text=02%20%2F%20GENERATIVE%20AI&fontColor=C4B5FD&fontSize=19" alt="SlideSmith — Generative AI"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:101B3C,100:312E81&text=GENERATIVE%20AI&fontColor=C4B5FD&fontSize=23" alt="SlideSmith AI presentation project"/>
 
 </div>
 
-### 📊 SlideSmith
+### 📊 SlideSmith — AI Presentation Generator
 
-**AI Presentation Generator**
+An AI-powered presentation generator that transforms a topic, PDF, or existing PowerPoint file into professional presentations with smart slide layouts, relevant imagery, and an interactive AI presenter.
 
-An AI-powered presentation application that transforms topics and documents into presentations with structured generation workflows and an interactive AI presenter.
-
-- Presentation generation from topics and documents
+**Key features**
+- AI-generated presentations from topics and documents
 - LangGraph-powered generation workflow
-- Slide layouts and image retrieval
-- AI slide explanations and audience Q&A
-- Local LLM inference with Ollama
+- Smart slide layouts and automated image retrieval
+- Sally AI presenter for slide explanations, speaker notes, and audience Q&A
+- Local LLM inference using Ollama
+- Presentation downloads, history, and email sharing
+  
+**⚙️ Tech Stack**
 
-**Tech Stack**
+<table>
+<tr>
+<td align="center"><b>React</b></td>
+<td align="center"><b>FastAPI</b></td>
+<td align="center"><b>LangGraph</b></td>
+</tr>
+<tr>
+<td align="center"><b>Llama 3</b></td>
+<td align="center"><b>Ollama</b></td>
+<td align="center"><b>PostgreSQL</b></td>
+</tr>
+<tr>
+<td align="center" colspan="3"><b>python-pptx</b></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,postgres&theme=dark" alt="SlideSmith technology stack"/>
-
-`LangGraph` · `Ollama` · `python-pptx`
-
-<br/>
-
-<a href="https://github.com/RevHeadGuy/SlideSmith">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="View SlideSmith"/>
-</a>
+<a href="https://github.com/RevHeadGuy/SlideSmith">↗ View Repository</a>
 
 </td>
 </tr>
@@ -157,64 +130,69 @@ An AI-powered presentation application that transforms topics and documents into
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:102A22,100:166534&text=03%20%2F%20AI%20SECURITY&fontColor=86EFAC&fontSize=19" alt="LLM Data Leakage Monitor — AI security"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:102A22,100:166534&text=PRODUCTIVITY&fontColor=86EFAC&fontSize=23" alt="FocusRoom project"/>
 
 </div>
 
-### 🔐 LLM Data Leakage Monitor
+### 🎯 FocusRoom
 
-**Privacy-Focused AI Browser Extension**
+A productivity-focused AI application designed to support focused work through task management, planning, persistent memory, and AI-powered assistance.
 
-A browser extension designed to identify potentially sensitive information before it is submitted to AI assistants.
+**Project focus**
+- AI-powered productivity workflows
+- Task management and planning
+- Persistent memory using SQLite
+- MCP server for exposing tools to compatible AI clients
 
-- Regex-based sensitive-data detection
-- TinyBERT-based entity recognition
-- ONNX Runtime integration
-- Privacy-first local-processing approach
+**⚙️ Tech Stack**
 
-**Tech Stack**
+<table>
+<tr>
+<td align="center"><b>Python</b></td>
+<td align="center"><b>Groq</b></td>
+<td align="center"><b>MCP</b></td>
+</tr>
+<tr>
+<td align="center"><b>SQLite</b></td>
+<td align="center" colspan="2"><b>Streamlit</b></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/>
-
-`TinyBERT` · `ONNX Runtime` · `Browser APIs`
-
-<br/>
-
-<a href="https://github.com/RevHeadGuy/LLM_DATA_LEAKAGE_MONITOR">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-166534?style=for-the-badge&logo=github&logoColor=white" alt="View LLM Data Leakage Monitor"/>
-</a>
+<a href="https://github.com/RevHeadGuy/FocusRoom">↗ View Repository</a>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:2B183D,100:701A75&text=04%20%2F%20AI%20PRODUCTIVITY&fontColor=F5D0FE&fontSize=19" alt="FocusRoom — AI productivity"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:2B183D,100:701A75&text=NEXT%20FRONTIER&fontColor=F5D0FE&fontSize=23" alt="Agentic AI engineering"/>
 
 </div>
 
-### 🎯 FocusRoom
+### 🧠 Agentic AI Systems
 
-**AI-Powered Productivity Workspace**
+Exploring the engineering principles behind AI systems that use tools, execute workflows, and handle tasks beyond a single prompt.
 
-A productivity-focused application designed around task management, planning, persistent memory, and AI-assisted workflows.
+**Areas of exploration**
+- Agent orchestration and tool use
+- Human-in-the-loop workflows
+- Evaluation and observability
+- Reliable execution patterns
 
-- AI-powered productivity workflows
-- Task management and planning
-- SQLite-backed persistent memory
-- MCP server for compatible AI clients
+**🧠 Focus**
 
-**Tech Stack**
+<table>
+<tr>
+<td align="center"><b>LLMs</b></td>
+<td align="center"><b>Python</b></td>
+</tr>
+<tr>
+<td align="center"><b>APIs</b></td>
+<td align="center"><b>AI Workflows</b></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,sqlite&theme=dark" alt="FocusRoom technology stack"/>
-
-`Groq` · `MCP` · `Streamlit`
-
-<br/>
-
-<a href="https://github.com/RevHeadGuy/FocusRoom">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-701A75?style=for-the-badge&logo=github&logoColor=white" alt="View FocusRoom"/>
-</a>
+<a href="https://github.com/RevHeadGuy?tab=repositories">↗ Explore My Repositories</a>
 
 </td>
 </tr>
@@ -226,44 +204,25 @@ A productivity-focused application designed around task management, planning, pe
 
 <div align="center">
 
-*Tools and technologies across my development and learning journey.*
-
-<br/>
-
-### PROGRAMMING LANGUAGES
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql&theme=dark" alt="Programming languages"/>
 
-<br/><br/>
+### AI / Machine Learning
 
-### AI / MACHINE LEARNING
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and machine learning tools"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="Machine learning technologies"/>
+scikit-learn · Pandas · NumPy · Transformers · ONNX Runtime
 
-<br/>
+### LLM & AI Application Engineering
 
-`scikit-learn` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Transformers` &nbsp;·&nbsp; `ONNX Runtime`
+LangChain · LangGraph · Groq · Ollama · Llama 3 · Gradio · Streamlit · RAG concepts · Agent workflows
 
-<br/><br/>
+### Backend & Developer Tools
 
-### LLM & AI APPLICATION ENGINEERING
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,vscode,linux&theme=dark" alt="Backend and developer tools"/>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-4338CA?style=flat-square" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama"/>
-<img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/MCP-155E75?style=flat-square" alt="MCP"/>
-
-<br/><br/>
-
-### BACKEND & DEVELOPER TOOLS
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,postgres,sqlite,git,github,docker,vscode,linux&theme=dark" alt="Backend and developer tools"/>
-
-<br/>
-
-`REST APIs` &nbsp;·&nbsp; `SQLAlchemy` &nbsp;·&nbsp; `CI/CD Fundamentals` &nbsp;·&nbsp; `MLOps Concepts`
+React · FastAPI · PostgreSQL · SQLite · REST APIs · MCP · SQLAlchemy · CI/CD fundamentals · MLOps concepts
 
 </div>
 
@@ -273,31 +232,17 @@ A productivity-focused application designed around task management, planning, pe
 
 <div align="center">
 
-*Consistency in practice. Progress through building.*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0B1F36,100:123E70&text=ACTIVITY%20%2F%20INSIGHTS%20%2F%20GROWTH&fontColor=67E8F9&fontSize=20" alt="GitHub activity and insights"/>
-
-<br/><br/>
+<a href="https://github.com/RevHeadGuy">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=RevHeadGuy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics"/>
+</a>
 
 <a href="https://github.com/RevHeadGuy">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RevHeadGuy&show_icons=true&hide_border=true&bg_color=080F1B&title_color=67E8F9&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github&hide=contribs" alt="Vedant's GitHub statistics"/>
-</a>
-&nbsp;
-<a href="https://github.com/RevHeadGuy">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevHeadGuy&layout=compact&hide_border=true&bg_color=080F1B&title_color=67E8F9&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevHeadGuy&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages"/>
 </a>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=RevHeadGuy&theme=tokyonight&hide_border=true&background=080F1B&ring=38BDF8&fire=67E8F9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=94A3B8" alt="Vedant's GitHub contribution streak"/>
-
-<br/><br/>
-
-<a href="https://github.com/RevHeadGuy?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
+<img width="90%" src="https://streak-stats.demolab.com/?user=RevHeadGuy&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=67E8F9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=94A3B8" alt="Vedant's GitHub Contribution Streak"/>
 
 </div>
 
@@ -309,41 +254,33 @@ A productivity-focused application designed around task management, planning, pe
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/01-BUILD-0E7490?style=for-the-badge" alt="Build"/>
+### ⚡ BUILD
 
-### Build with Purpose
-
-Turn ideas into working applications that solve practical problems.
+Turn ideas into working applications.
 
 </td>
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/02-EXPLORE-4338CA?style=for-the-badge" alt="Explore"/>
+### 🔍 EXPLORE
 
-### Explore Deeply
-
-Understand the architecture, tools, and principles behind the technology.
+Understand the systems behind the technology.
 
 </td>
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/03-IMPROVE-166534?style=for-the-badge" alt="Improve"/>
+### 🎯 IMPROVE
 
-### Improve Continuously
-
-Evaluate outcomes, learn from failures, and refine the implementation.
+Evaluate, iterate, and make solutions more useful.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-> Good engineering is more than making a model produce an answer. It's about understanding the problem, designing the system, evaluating the outcome, and improving it through iteration.
-
 </div>
+
+I believe good engineering is more than making a model produce an answer. It is about understanding the problem, designing the system, evaluating the outcome, and improving it through iteration.
 
 ---
 
@@ -351,36 +288,26 @@ Evaluate outcomes, learn from failures, and refine the implementation.
 
 <div align="center">
 
-### Let's Connect & Build Something Useful
+<a href="https://www.linkedin.com/in/vedant-atri-398a13257/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/vedant0223">
+<img src="https://img.shields.io/badge/Twitter-Follow%20Along-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://kaggle.com/vedantatr">
+<img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://instagram.com/vedantatri99">
+<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:vedantatri123@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
 
 *Always learning. Always building. Always exploring what's possible with AI.*
 
-<br/>
-
-<a href="https://www.linkedin.com/in/vedant-atri-398a13257/">
-<img src="https://img.shields.io/badge/LINKEDIN-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/vedant0223">
-<img src="https://img.shields.io/badge/TWITTER-Follow%20Along-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="https://kaggle.com/vedantatr">
-<img src="https://img.shields.io/badge/KAGGLE-Data%20Science-0EA5E9?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-
-<br/><br/>
-
-<a href="https://instagram.com/vedantatri99">
-<img src="https://img.shields.io/badge/INSTAGRAM-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="mailto:vedantatri123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:164E63,45:123E70,100:050816&section=footer" alt="Vedant Atri profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:123E70,100:050816&section=footer" alt="Profile footer"/>
 
 </div>
