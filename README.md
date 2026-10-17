@@ -2,13 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=VEDANT%20ATRI&fontSize=58&fontColor=E6F7FF&fontAlignY=38&desc=Generative%20AI%20%2F%20Machine%20Learning%20%2F%20Agentic%20AI&descSize=13&descAlignY=57&descColor=67E8F9&animation=fadeIn&color=0:020617,35:0B1B3A,70:123E70,100:164E63" alt="Vedant Atri"/>
 
-<br/>
-
-<a href="https://github.com/RevHeadGuy?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore projects"/></a>
-<a href="https://www.linkedin.com/in/vedant-atri-398a13257/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:vedantatri123@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact"/></a>
-
-<br/><br/>
 
 ### Engineering intelligence. Building beyond the prompt.
 
