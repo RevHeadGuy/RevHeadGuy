@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=VEDANT%20ATRI&fontSize=58&fontColor=E6F7FF&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%20AGENTIC%20SYSTEMS%20%2F%20INTELLIGENT%20PRODUCTS&descSize=13&descAlignY=57&descColor=67E8F9&animation=fadeIn&color=0:020617,35:0B1B3A,70:123E70,100:164E63" alt="Vedant Atri — AI Engineering"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=VEDANT%20ATRI&fontSize=58&fontColor=E6F7FF&fontAlignY=38&desc=Generative%20AI%20%2F%20Machine%20Learning%20%2F%20Agentic%20AI&descSize=13&descAlignY=57&descColor=67E8F9&animation=fadeIn&color=0:020617,35:0B1B3A,70:123E70,100:164E63" alt="Vedant Atri"/>
 
 <br/>
 
