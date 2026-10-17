@@ -221,7 +221,6 @@ An ML monitoring project exploring how to identify changes in data and model pre
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RevHeadGuy&bg_color=020617&color=C9D1D9&line=38BDF8&point=67E8F9&area=true&area_color=164E63&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="GitHub contribution activity graph"/>
 
 </div>
 
