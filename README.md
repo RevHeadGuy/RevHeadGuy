@@ -232,21 +232,21 @@ An ML monitoring project exploring how to identify changes in data and model pre
 <tr>
 <td width="33%" align="center" valign="top">
 
-### <img src="https://img.shields.io/badge/01-0F172A?style=flat-square" alt="01"/> DESIGN
+### <img src="https://img.shields.io/badge/01-0F172A?style=flat-square"/> DESIGN
 
 Understand the problem before choosing the model, framework, or architecture.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### <img src="https://img.shields.io/badge/02-0F172A?style=flat-square" alt="02"/> BUILD
+### <img src="https://img.shields.io/badge/02-0F172A?style=flat-square"/> BUILD
 
 Turn ideas into working systems through thoughtful engineering and iteration.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### <img src="https://img.shields.io/badge/03-0F172A?style=flat-square" alt="03"/> VALIDATE
+### <img src="https://img.shields.io/badge/03-0F172A?style=flat-square"/> VALIDATE
 
 Test assumptions, measure outcomes, investigate failures, and improve reliability.
 
@@ -258,25 +258,7 @@ The goal isn't to add AI to everything. It's to understand where intelligence cr
 
 ---
 
-## `06` — CURRENT EXPLORATION
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AGENT%20ORCHESTRATION-0B1220?style=for-the-badge&logoColor=67E8F9" alt="Agent orchestration"/>
-<img src="https://img.shields.io/badge/MULTI--AGENT%20SYSTEMS-0B1220?style=for-the-badge" alt="Multi-agent systems"/>
-<img src="https://img.shields.io/badge/LLM%20EVALUATION-0B1220?style=for-the-badge" alt="LLM evaluation"/>
-
-<img src="https://img.shields.io/badge/MODEL%20MONITORING-0B1220?style=for-the-badge" alt="Model monitoring"/>
-<img src="https://img.shields.io/badge/AI%20SECURITY-0B1220?style=for-the-badge" alt="AI security"/>
-<img src="https://img.shields.io/badge/LOCAL%20AI-0B1220?style=for-the-badge" alt="Local AI"/>
-
-</div>
-
-My learning process is project-driven: study the fundamentals, implement the system, investigate edge cases, and refine the design based on what actually works.
-
----
-
-## `07` — LET'S CONNECT
+## `06` — LET'S CONNECT
 
 <div align="center">
 
