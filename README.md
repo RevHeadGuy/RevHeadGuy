@@ -219,39 +219,7 @@ An ML monitoring project exploring how to identify changes in data and model pre
 
 ---
 
-## `05` — HOW I APPROACH ENGINEERING
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### <img src="https://img.shields.io/badge/01-0F172A?style=flat-square"/> DESIGN
-
-Understand the problem before choosing the model, framework, or architecture.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### <img src="https://img.shields.io/badge/02-0F172A?style=flat-square"/> BUILD
-
-Turn ideas into working systems through thoughtful engineering and iteration.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### <img src="https://img.shields.io/badge/03-0F172A?style=flat-square"/> VALIDATE
-
-Test assumptions, measure outcomes, investigate failures, and improve reliability.
-
-</td>
-</tr>
-</table>
-
-The goal isn't to add AI to everything. It's to understand where intelligence creates value, where deterministic logic is better, and how both can work together in a dependable system.
-
----
-
-## `06` — LET'S CONNECT
+## `05` — LET'S CONNECT
 
 <div align="center">
 
