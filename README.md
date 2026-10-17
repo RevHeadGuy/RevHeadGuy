@@ -24,8 +24,6 @@
 
 ## `01` — THE ENGINEER BEHIND THE CODE
 
-<img align="right" width="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevHeadGuy&layout=donut-vertical&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=C9D1D9&langs_count=5" alt="Most-used programming languages"/>
-
 Hey, I'm **Vedant Atri** — a developer interested in the intersection of Artificial Intelligence, software engineering, and product development.
 
 My focus is moving beyond isolated AI demos toward systems that can plan, execute workflows, use tools, and deliver useful outcomes.
